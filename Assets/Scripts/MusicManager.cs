@@ -16,7 +16,6 @@ public class MusicManager : MonoBehaviour
         {
             Instance = this; // this instance becomes the music manager
             audioSource = GetComponent<AudioSource>(); // set the code's audio source to the first audio source that can be found from the editor
-            DontDestroyOnLoad(gameObject); // prevent the music manager from being destroyed
         }
         else
         {
