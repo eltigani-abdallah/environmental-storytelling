@@ -1,4 +1,75 @@
 
+# An experience with no words
+---
+This is a project created at LaPlateforme_ to test the student's ability to tell a story without using words. (I cheated a little because of something that I added in the very last scene).
+
+As such, you, dear reader, are not supposed to read the synopsis and scene by scene breakdown before completing the game, everything should be easy enough to find out anyway.
+
+
+
+
+
+
+
+
+
+# How to Install
+---
+Step 1: go to the release section from the side and download "EnvironmentalStorytelling.zip"
+Step 1 (for the nerds): clone the repository and get the same file from the main branch
+
+Step 2: unzip the file
+
+Step 3: navigate to the folder with the title of your OS, currently this "game" is built for both Windows and Linux
+
+Step 4: run the game. on the Linux side simply double click the file that ends with x86_64, on the windows side double click the .exe file
+
+
+
+
+
+
+
+# Credits: 
+---
+Music: 
+- Toby Fox 
+
+
+Assets (all found in the unity asset store except for the terrain):
+
+- Character:
+	- CHEPATACK
+
+
+- Props:
+	-  Mumifier Studio
+	- DragonXu
+	- Robot Skeleton
+	- Brick project studio
+	- Nappin
+	- Norsat Entertainment
+	- Jecase
+
+- Brushes:
+	- VenCreations
+	- JustCreate
+	- Chromisu
+
+And Eltigani Abdallah for putting all this together
+
+And You, thank you for scrolling this far you beautiful creature
+
+
+
+
+
+
+
+# Spoilers past this point, proceed at your own risk
+---
+
+
 
 ### Synopsis
 ---
