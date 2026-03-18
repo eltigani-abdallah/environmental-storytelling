@@ -1,7 +1,7 @@
 
 # An experience with no words
----
-This is a project created at LaPlateforme_ to test the student's ability to tell a story without using words. (I cheated a little because of something that I added in the very last scene).
+
+This is a student project created at LaPlateforme_ school to test the student's ability to tell a story without using words. (I cheated a little because of something that I added in the very last scene).
 
 As such, you, dear reader, are not supposed to read the synopsis and scene by scene breakdown before completing the game, everything should be easy enough to find out anyway.
 
@@ -13,10 +13,10 @@ As such, you, dear reader, are not supposed to read the synopsis and scene by sc
 
 
 
-# How to Install
+## How to Install
 ---
 Step 1: go to the release section from the side and download "EnvironmentalStorytelling.zip"
-Step 1 (for the nerds): clone the repository and get the same file from the main branch
+
 
 Step 2: unzip the file
 
@@ -30,7 +30,7 @@ Step 4: run the game. on the Linux side simply double click the file that ends w
 
 
 
-# Credits: 
+## Credits: 
 ---
 Music: 
 - Toby Fox 
