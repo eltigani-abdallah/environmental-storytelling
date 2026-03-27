@@ -6,6 +6,7 @@ This is a student project created at LaPlateforme_ school to test the student's 
 As such, you, dear reader, are not supposed to read the synopsis and scene by scene breakdown before completing the game, everything should be easy enough to find out anyway.
 
 
+<img width="496" height="332" alt="enviro-storytelling" src="https://github.com/user-attachments/assets/f9a94c61-91e7-47eb-b45c-9e3ddd4e7b0c" />
 
 
 
