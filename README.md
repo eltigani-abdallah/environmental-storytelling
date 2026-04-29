@@ -14,11 +14,11 @@ As such, you, dear reader, are not supposed to read the synopsis and scene by sc
 
 ![enviro-storytelling](https://github.com/user-attachments/assets/f9a94c61-91e7-47eb-b45c-9e3ddd4e7b0c)
 
-## Authors
+# Authors
 
 Eltigani Abdallah
 
-## Credits
+# Credits
 
 Music: Toby Fox
 
@@ -41,25 +41,25 @@ Assets (all found in the Unity Asset Store except for the terrain):
 <details>
 <summary>Spoilers past this point, proceed at your own risk</summary>
 
-### Synopsis
+# Synopsis
 
 You get out of your car one night only to find the pavement leading to your door covered in a red trail. Is it blood? You ask yourself as you walk into your house to investigate, like the white person in a horror movie you are.
 
-### Scene by Scene
+## Scene by Scene
 
-#### Scene 1: Leaving the Car
+### Scene 1: Leaving the Car
 
 - Beat: suspense, curiosity
 
 You leave the car and look down only to find the red trail extending all the way to your front door. You walk further as your shoes make sloshing sounds in the liquid, making your way towards your front door. (BGM: Premonition from Undertale)
 
-#### Scene 2: The Never-Ending Hallway
+### Scene 2: The Never-Ending Hallway
 
 - Beat: suspense, horror
 
 You enter your house only to find that the trail extends all the way to your living room. You turn on your phone flashlight for visibility and to not attract attention to yourself (even though it was dumb enough of you to enter through the front door, which is audible throughout the house). You hear footsteps other than yours coming from the living room. (BGM: But Nobody Came from Undertale)
 
-#### Scene 3: All Shall Be Revealed
+### Scene 3: All Shall Be Revealed
 
 - Beat: relief
 
